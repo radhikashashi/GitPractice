@@ -19,7 +19,7 @@ class PDemo001 {
     }
 
     public static void main(String[] args) {
-        PDemo001 obj = new PDemo001();
+        PDemo001 obj = new Demo001();
         obj.accept_details();
         obj.Display_details();
     }
